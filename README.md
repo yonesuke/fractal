@@ -10,7 +10,7 @@ It uses the following libraries:
 
 ## Codes
 
-See [fractal.py](fractal.py) for the implementation.
+See [fractals.py](fractals.py) for the implementation.
 
 See [plot.ipynb](plot.ipynb) for examples.
 
